@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "62445718384",
+    "project_id": "shortie-8bb7c",
+    "storage_bucket": "shortie-8bb7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62445718384:android:55d8c25154c80480d49db5",
+        "android_client_info": {
+          "package_name": "com.shortie.live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62445718384-nv05ntuuk3oftarigvsds48tiocvekh0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shortie.live",
+            "certificate_hash": "e64eb2db8decac14eb76afc5b201634b43c2c5cd"
+          }
+        },
+        {
+          "client_id": "62445718384-d415spsbkcd86ml1f3lqoe3cme2o2okm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtS2Q3ghLuXsCNd6IrlpoLiu2CD9yc7b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62445718384-d415spsbkcd86ml1f3lqoe3cme2o2okm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
